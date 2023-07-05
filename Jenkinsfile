@@ -11,7 +11,7 @@ pipeline
             }
             steps
             {
-                echo "print change log"
+                echo "Printing change-log Hello world"
             }
         }
     }
